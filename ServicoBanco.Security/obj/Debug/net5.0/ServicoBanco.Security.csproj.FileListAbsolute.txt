@@ -1,0 +1,15 @@
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Security\bin\Debug\net5.0\ServicoBanco.Security.deps.json
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Security\bin\Debug\net5.0\ServicoBanco.Security.dll
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Security\bin\Debug\net5.0\ref\ServicoBanco.Security.dll
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Security\bin\Debug\net5.0\ServicoBanco.Security.pdb
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Security\obj\Debug\net5.0\ServicoBanco.Security.csproj.AssemblyReference.cache
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Security\obj\Debug\net5.0\ServicoBanco.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Security\obj\Debug\net5.0\ServicoBanco.Security.AssemblyInfoInputs.cache
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Security\obj\Debug\net5.0\ServicoBanco.Security.AssemblyInfo.cs
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Security\obj\Debug\net5.0\ServicoBanco.Security.csproj.CoreCompileInputs.cache
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Security\obj\Debug\net5.0\ServicoBanco.Security.dll
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Security\obj\Debug\net5.0\ref\ServicoBanco.Security.dll
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Security\obj\Debug\net5.0\ServicoBanco.Security.pdb
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Security\bin\Debug\net5.0\ServicoBanco.Domain.dll
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Security\bin\Debug\net5.0\ServicoBanco.Domain.pdb
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Security\obj\Debug\net5.0\ServicoBanco.Security.csproj.CopyComplete

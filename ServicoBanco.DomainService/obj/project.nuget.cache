@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5lcLB4ub7NEVt8TiWFjbw1HSuaoZzSY1CEwSbxWbJx6lX+BP7Fsyorg7z9CQFsIYsFnynizv3GOtX3YT2ZVLOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.DomainService\\ServicoBanco.DomainService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\6354\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

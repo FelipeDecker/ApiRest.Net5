@@ -1,0 +1,500 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Web\\ServicoBanco.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.CrossCutting\\ServicoBanco.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.CrossCutting\\ServicoBanco.CrossCutting.csproj",
+        "projectName": "ServicoBanco.CrossCutting",
+        "projectPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.CrossCutting\\ServicoBanco.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\6354\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\6354\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.DomainService\\ServicoBanco.DomainService.csproj": {
+                "projectPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.DomainService\\ServicoBanco.DomainService.csproj"
+              },
+              "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Repository\\ServicoBanco.Repository.csproj": {
+                "projectPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Repository\\ServicoBanco.Repository.csproj"
+              },
+              "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Service\\ServicoBanco.Service.csproj": {
+                "projectPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Service\\ServicoBanco.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.DomainService\\ServicoBanco.DomainService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.DomainService\\ServicoBanco.DomainService.csproj",
+        "projectName": "ServicoBanco.DomainService",
+        "projectPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.DomainService\\ServicoBanco.DomainService.csproj",
+        "packagesPath": "C:\\Users\\6354\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.DomainService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\6354\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Domain\\ServicoBanco.Domain.csproj": {
+                "projectPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Domain\\ServicoBanco.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Domain\\ServicoBanco.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Domain\\ServicoBanco.Domain.csproj",
+        "projectName": "ServicoBanco.Domain",
+        "projectPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Domain\\ServicoBanco.Domain.csproj",
+        "packagesPath": "C:\\Users\\6354\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\6354\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Repository\\ServicoBanco.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Repository\\ServicoBanco.Repository.csproj",
+        "projectName": "ServicoBanco.Repository",
+        "projectPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Repository\\ServicoBanco.Repository.csproj",
+        "packagesPath": "C:\\Users\\6354\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\6354\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.DomainService\\ServicoBanco.DomainService.csproj": {
+                "projectPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.DomainService\\ServicoBanco.DomainService.csproj"
+              },
+              "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Domain\\ServicoBanco.Domain.csproj": {
+                "projectPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Domain\\ServicoBanco.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Service\\ServicoBanco.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Service\\ServicoBanco.Service.csproj",
+        "projectName": "ServicoBanco.Service",
+        "projectPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Service\\ServicoBanco.Service.csproj",
+        "packagesPath": "C:\\Users\\6354\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\6354\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.DomainService\\ServicoBanco.DomainService.csproj": {
+                "projectPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.DomainService\\ServicoBanco.DomainService.csproj"
+              },
+              "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Domain\\ServicoBanco.Domain.csproj": {
+                "projectPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Domain\\ServicoBanco.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Web\\ServicoBanco.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Web\\ServicoBanco.Web.csproj",
+        "projectName": "ServicoBanco.Web",
+        "projectPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Web\\ServicoBanco.Web.csproj",
+        "packagesPath": "C:\\Users\\6354\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\6354\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.CrossCutting\\ServicoBanco.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.CrossCutting\\ServicoBanco.CrossCutting.csproj"
+              },
+              "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Domain\\ServicoBanco.Domain.csproj": {
+                "projectPath": "C:\\Users\\6354\\source\\repos\\ServicoBanco\\ServicoBanco.Domain\\ServicoBanco.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Core": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OAuth": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.AspNetCore.Owin": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

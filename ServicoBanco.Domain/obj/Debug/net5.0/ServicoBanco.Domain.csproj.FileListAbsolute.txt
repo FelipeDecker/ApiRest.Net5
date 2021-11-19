@@ -1,0 +1,12 @@
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Domain\bin\Debug\net5.0\ServicoBanco.Domain.deps.json
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Domain\bin\Debug\net5.0\ServicoBanco.Domain.dll
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Domain\bin\Debug\net5.0\ref\ServicoBanco.Domain.dll
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Domain\bin\Debug\net5.0\ServicoBanco.Domain.pdb
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Domain\obj\Debug\net5.0\ServicoBanco.Domain.csproj.AssemblyReference.cache
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Domain\obj\Debug\net5.0\ServicoBanco.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Domain\obj\Debug\net5.0\ServicoBanco.Domain.AssemblyInfoInputs.cache
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Domain\obj\Debug\net5.0\ServicoBanco.Domain.AssemblyInfo.cs
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Domain\obj\Debug\net5.0\ServicoBanco.Domain.csproj.CoreCompileInputs.cache
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Domain\obj\Debug\net5.0\ServicoBanco.Domain.dll
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Domain\obj\Debug\net5.0\ref\ServicoBanco.Domain.dll
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Domain\obj\Debug\net5.0\ServicoBanco.Domain.pdb

@@ -1,0 +1,17 @@
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Service\bin\Debug\net5.0\ServicoBanco.Service.deps.json
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Service\bin\Debug\net5.0\ServicoBanco.Service.dll
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Service\bin\Debug\net5.0\ref\ServicoBanco.Service.dll
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Service\bin\Debug\net5.0\ServicoBanco.Service.pdb
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Service\bin\Debug\net5.0\ServicoBanco.Domain.dll
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Service\bin\Debug\net5.0\ServicoBanco.DomainService.dll
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Service\bin\Debug\net5.0\ServicoBanco.DomainService.pdb
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Service\bin\Debug\net5.0\ServicoBanco.Domain.pdb
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Service\obj\Debug\net5.0\ServicoBanco.Service.csproj.AssemblyReference.cache
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Service\obj\Debug\net5.0\ServicoBanco.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Service\obj\Debug\net5.0\ServicoBanco.Service.AssemblyInfoInputs.cache
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Service\obj\Debug\net5.0\ServicoBanco.Service.AssemblyInfo.cs
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Service\obj\Debug\net5.0\ServicoBanco.Service.csproj.CoreCompileInputs.cache
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Service\obj\Debug\net5.0\ServicoBanco.Service.csproj.CopyComplete
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Service\obj\Debug\net5.0\ServicoBanco.Service.dll
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Service\obj\Debug\net5.0\ref\ServicoBanco.Service.dll
+C:\Users\6354\source\repos\ServicoBanco\ServicoBanco.Service\obj\Debug\net5.0\ServicoBanco.Service.pdb
